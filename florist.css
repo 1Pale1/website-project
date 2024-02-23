@@ -221,7 +221,7 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: white;
     text-align: center;
     font-size: 50px;
 }
@@ -263,7 +263,11 @@ input[type=submit]:hover {
   
 .container {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #b9975d;
     padding: 20px;
   }
 
+.color-text {
+    color: black;
+    font-weight: bold;
+}
