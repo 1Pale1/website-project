@@ -218,6 +218,7 @@ nav {
 }
 
 h1 {
+    color: white;
     margin-top: 0;
     text-align: center;
     color: white;
@@ -226,11 +227,13 @@ h1 {
 }
 
 h2 {
+    color: white;
     text-align: center;
     font-size: 50px;
 }
 
 p {
+    color: white;
     text-align: center;
     font-size: 25px;
 }
